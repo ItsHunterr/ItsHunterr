@@ -14,7 +14,7 @@
 <a href="https://discord.gg/Fb8Yuyhezn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Hunterr#1843" height="30" width="40" /></a>
 </p>
 
-(p align="left")(img src="https://komarev.com/ghpvc/?username=k..." alt="khushboogoel01" /)(/p)
+<p align="left"><img src="https://komarev.com/ghpvc/?username=ItsHunterr" alt="Huntah" /></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
