@@ -1,12 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Hunter</h1>
 <h3 align="center">I'm NOT a developer I just know how to code :)</h3>
+<br>
 
 - 📫 How to reach me **Discord Hunterr#1843**
 
 - ⚡ Fun fact **Don't trust anyone**
 
-- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Hunterr#1843" height="30" width="40" /> **I love coding discord bots.**
+- 💻 **I love coding discord bots.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
