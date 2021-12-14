@@ -14,9 +14,16 @@
 <a href="https://www.youtube.com/channel/UCuoHRR6UjegbkuBwu8TdkLQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hunter" height="30" width="40" /></a>
 <a href="https://discord.gg/Fb8Yuyhezn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Hunterr#1843" height="30" width="40" /></a>
 </p>
+
+
+
+
+
+
+
 <h3 align="center"><img src="https://media.discordapp.net/attachments/889282249441296395/920109138946695168/Untitled3.png"></h3>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=ItsHunterr&label=Profile+Views&style=flat&color=grey" alt="Huntah" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?</p>line_height=25&show_icons=true&count_private=true&include_all_commits=true&username=ItsHunterr&theme=nord&custom_title=Hunter+Profile"/></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=ItsHunterr&label=Profile+Views&style=flat&color=grey" alt="Huntah" /></p>
 <br>
 
 
