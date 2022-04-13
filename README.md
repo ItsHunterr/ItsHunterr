@@ -2,11 +2,11 @@
 <img src="https://media.discordapp.net/attachments/889282249441296395/920160740478955540/Hithub.png?width=994&height=298">
 <br>
 
-- 📫 How to reach me **Discord Hunterr#1843**
+- 📫 How to reach me, **Discord Hunterr#7991**
 
 - ⚡ Fun fact **Don't trust anyone**
 
-- 💻 **I love coding discord bots.**
+- 💻 **I love coding random stuff**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
