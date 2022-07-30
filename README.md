@@ -2,7 +2,7 @@
 <img src="https://media.discordapp.net/attachments/889282249441296395/920160740478955540/Hithub.png?width=994&height=298">
 <br>
 
-- 📫 How to reach me, **Discord Hunterr#7991**
+- 📫 How to reach me, **Discord Hunterr#0040**
 
 - ⚡ Fun fact **Don't trust anyone**
 
