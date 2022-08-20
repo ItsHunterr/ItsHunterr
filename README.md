@@ -1,7 +1,7 @@
 
 <img src="https://media.discordapp.net/attachments/889282249441296395/920160740478955540/Hithub.png?width=994&height=298">
 <br>
-**I don't like using any tools or programs I didn't write myself or that I don't have some control over.**
+**I don't like using any tools or programs I didn't write myself or that I don't have some control over.**<br><br><br>
 - 📫 How to reach me, **Discord Hunterr#0040**
 
 - ⚡ Fun fact **Don't trust anyone**
