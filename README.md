@@ -12,9 +12,9 @@
 <p align="left">
   
 <a href="https://www.youtube.com/channel/UCuoHRR6UjegbkuBwu8TdkLQ" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="hunter" /></a>
-<a href="https://discord.gg/Fb8Yuyhezn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Hunterr#1843" height="30" width="40" /></a>
+<a href="https://discord.gg/users/522980853320515594" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Hunterr#1843" /></a>
 </p>
-
+ 	
 
 
 
