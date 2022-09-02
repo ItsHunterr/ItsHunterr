@@ -30,6 +30,4 @@
 
 <h3 align="center"><img src=""></h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,html,css,python,java"><br>
- <img src="https://skillicons.dev/icons?i=nodejs,nextjs,mongodb,git,linux"><br>
- <img src="https://skillicons.dev/icons?i=arduino,discord,vscode,instagram,photoshop,twitter"><br>
+<img src="https://skillicons.dev/icons?i=js,html,css,python,java,nodejs,nextjs,mongodb,git,linux,arduino,discord,vscode,instagram,photoshop,twitter"><br>
