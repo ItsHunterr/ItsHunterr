@@ -22,7 +22,7 @@
 
 
 <h3 align="center"><img src="https://media.discordapp.net/attachments/889282249441296395/920109138946695168/Untitled3.png"></h3>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?</p>line_height=25&show_icons=true&count_private=true&include_all_commits=true&username=ItsHunterr&theme=nord&custom_title=Hunter+Profile"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=itshunterr&theme=gotham"/></p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ItsHunterr&label=Profile+Views&style=flat&color=grey" alt="Huntah" /></p>
 <br>
 
