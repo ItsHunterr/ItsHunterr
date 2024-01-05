@@ -2,7 +2,7 @@
 <br>
 <b>"I don't like using any tools or programs I didn't write myself or that I don't have some control over." - Jonathan Sachs</b><br><br><br>
 
-- 📫 How to reach me, **Discord Hunterr#0040**
+- 📫 How to reach me, **Discord 4hunter_**
 
 - ⚡ Fun fact **Don't trust anyone**
 
