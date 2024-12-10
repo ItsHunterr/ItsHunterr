@@ -1,21 +1,11 @@
-<img src="https://media.discordapp.net/attachments/889282249441296395/920160740478955540/Hithub.png?width=994&height=298">
 <br>
 <b>"I don't like using any tools or programs I didn't write myself or that I don't have some control over." - Jonathan Sachs</b><br><br><br>
 
-- 📫 How to reach me, **Discord 4hunter_**
-
 - ⚡ Fun fact **Don't trust anyone**
-
 - 💻 **I love coding random stuff**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  
-<a href="https://www.youtube.com/channel/UCuoHRR6UjegbkuBwu8TdkLQ" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="hunter" /></a>
-<a href="https://discord.gg/users/522980853320515594" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Hunterr#1843" /></a>
-</p>
  	
-
+Contact at: contact@hunterr.xyz
 
 
 
