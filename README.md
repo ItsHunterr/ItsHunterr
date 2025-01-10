@@ -10,8 +10,9 @@ Contact at: contact@hunterr.xyz
 
 
 
-
+<center>
 ![Itshunterr's Stats](https://github-readme-stats.vercel.app/api?username=Itshunterr&theme=slateorange&show_icons=true&hide_border=true&count_private=true)
+ </center>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ItsHunterr&label=Profile+Views&style=flat&color=grey" alt="Huntah" /></p>
 <br>
 
