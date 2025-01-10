@@ -1,3 +1,4 @@
+<img src="https://github.com/ItsHunterr/ItsHunterr/blob/main/Banner%20-%20Hunter.png"/>
 <br>
 <b>"I don't like using any tools or programs I didn't write myself or that I don't have some control over." - Jonathan Sachs</b><br><br><br>
 
