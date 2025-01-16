@@ -8,7 +8,7 @@
  	
 Contact at: contact@hunterr.xyz
 
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E617EFXT)
 
 ![Itshunterr's Stats](https://github-readme-stats.vercel.app/api?username=Itshunterr&theme=slateorange&show_icons=true&hide_border=true&count_private=true)
 
