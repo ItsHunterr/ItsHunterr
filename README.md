@@ -1,5 +1,5 @@
 <img src="https://github.com/ItsHunterr/ItsHunterr/blob/main/Banner%20-%20Hunter.png"/>
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#f97316', 'E1E617EFXT');kofiwidget2.draw();</script> 
+<a href='https://ko-fi.com/E1E617EFXT' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 <br>
 <b>"I don't like using any tools or programs I didn't write myself or that I don't have some control over." - Jonathan Sachs</b><br><br><br>
 
