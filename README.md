@@ -12,6 +12,8 @@ Contact at: contact@hunterr.xyz
 
 ![Itshunterr's Stats](https://github-readme-stats.vercel.app/api?username=Itshunterr&theme=slateorange&show_icons=true&hide_border=true&count_private=true)
 
+[![wakatime](https://wakatime.com/badge/user/c87ce41e-e087-4161-8482-203ada4688d9.svg)](https://wakatime.com/@c87ce41e-e087-4161-8482-203ada4688d9)
+
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ItsHunterr&label=Profile+Views&style=flat&color=grey" alt="Huntah" /></p>
 <br>
 
